@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="data">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../c5/java/data/citydb_original.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../c5/java/data/citydb.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

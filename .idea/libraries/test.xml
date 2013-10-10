@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="test">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../c5/java/jar/test/junit-4.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../c5/java/jar/test/junit-4.11-src.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../c5/java/jar/test/easymock.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../c5/java/jar/test/mockito-all-1.8.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../c5/java/jar/test/easymockclassextension.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../c5/java/jar/test/junit-addons-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../c5/java/jar/test/cglib-nodep-2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

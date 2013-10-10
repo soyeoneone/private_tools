@@ -1,0 +1,32 @@
+<component name="libraryTable">
+  <library name="jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../c5/java/jar/mysql 5.1.6-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../c5/java/jar/xws-security.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../c5/java/jar/log4j-1.2.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../c5/java/jar/mindterm 3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../c5/java/jar/jaxb-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../c5/java/jar/tools-1.6.0_12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../c5/java/jar/hibernate-validator-4.2.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../c5/java/jar/activation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../c5/java/jar/validation-api-1.0.0.GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../c5/java/jar/jaxen-1.1-beta-7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../c5/java/jar/servlet-api-3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../c5/java/jar/commons-math-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../c5/java/jar/bcprov-jdk15on-149.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../c5/java/jar/jaxb-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../c5/java/jar/spring.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../c5/java/jar/c3p0-0.9.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../c5/java/jar/jsr173_1.0_api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../c5/java/jar/Jama-1.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../c5/java/jar/slf4j-log4j12-1.6.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../c5/java/jar/jettison-1.3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../c5/java/jar/bcpg-jdk15on-149.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../c5/java/jar/commons-logging.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../c5/java/jar/dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../c5/java/jar/slf4j-api-1.6.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

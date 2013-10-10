@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="redis">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../c5/java/jar/redis/commons-pool-1.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../c5/java/jar/redis/commons-collections-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../c5/java/jar/redis/kryo-1.04.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../c5/java/jar/redis/jedis-1.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../c5/java/jar/redis/minlog-1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

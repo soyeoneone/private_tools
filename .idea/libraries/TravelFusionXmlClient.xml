@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="TravelFusionXmlClient">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../c5/apache/xmlspec/v2/TravelFusionXmlClient.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

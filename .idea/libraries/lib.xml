@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../c5/grinder/lib/jython.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../c5/grinder/lib/xbean.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../c5/grinder/lib/grinder-xmlbeans.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../c5/grinder/lib/jsr173_1.0_api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../c5/grinder/lib/grinder-j2se5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../c5/grinder/lib/picocontainer-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../c5/grinder/lib/grinder.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

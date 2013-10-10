@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="autotwitter">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../c5/autotwitter/autotwitter.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../c5/autotwitter/autotwitter.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="pcd">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../c5/java/data/serverProxy/setUp/daemon/pcd.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

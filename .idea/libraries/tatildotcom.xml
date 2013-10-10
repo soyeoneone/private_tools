@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="tatildotcom">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../c5/java/data/supplier/tatildotcom/tatildotcom.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
